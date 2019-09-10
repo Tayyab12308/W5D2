@@ -1,1 +1,11 @@
 /* PHASE 2: Notifications */
+.badge {
+  position: relative;
+  border-radius: 50%;
+}
+
+.badge ul {
+  position: absolute;
+  top: 50;
+  
+}
